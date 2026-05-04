@@ -1,5 +1,5 @@
 Health Insurance Project 
-This project analyzes how behavioral factors influence health insurance costs, with a focus on identifying high-impact drivers of expenditure and improving risk prediction.
+- This project analyzes how behavioral factors influence health insurance costs, with a focus on identifying high-impact drivers of expenditure and improving risk prediction.
 
 Using a dataset of 1,300+ insurance records, the analysis applies regression modeling to uncover how smoking and BMI interact to drive healthcare costs.
 
@@ -9,14 +9,9 @@ Business Impact
 - Provides a framework that can be adapted for customer segmentation and risk modeling in other industries
 
 Tools & Methods
-R – statistical modeling and regression analysis
-Excel – data cleaning and exploratory analysis
-Techniques: regression modeling, interaction effects (BMI × smoking), data interpretation
-
-Future Improvements
-Incorporate longitudinal data to track cost changes over time
-Explore non-linear models for better prediction of extreme cases
-Expand analysis with additional behavioral and lifestyle variables
+- R – statistical modeling and regression analysis
+- Excel – data cleaning and exploratory analysis
+- Techniques: regression modeling, interaction effects (BMI × smoking), data interpretation
 
 Takeaway
-This project demonstrates how combining data analysis with behavioral insights can generate actionable recommendations for pricing, risk assessment, and strategic decision-making.
+- This project demonstrates how combining data analysis with behavioral insights can generate actionable recommendations for pricing, risk assessment, and strategic decision-making.
