@@ -1,5 +1,22 @@
-Health Insurance Project
-- the aim was to see if BMI and Smoking status drive the cost charges of health insurance
-- from the analysis performed it is clear that smoking is the primary driver for high charges
-- people who had a high Body Mass Index (BMI) and are smokers were the the ones with the hgihest charges
-- it supports more accurate priving models based on combined risk profiles
+Health Insurance Project 
+This project analyzes how behavioral factors influence health insurance costs, with a focus on identifying high-impact drivers of expenditure and improving risk prediction.
+
+Using a dataset of 1,300+ insurance records, the analysis applies regression modeling to uncover how smoking and BMI interact to drive healthcare costs.
+
+Business Impact
+- Supports more accurate pricing strategies by accounting for combined risk factors rather than isolated variables
+- Helps identify truly high-risk customer segments, reducing the risk of overpricing low-risk individuals
+- Provides a framework that can be adapted for customer segmentation and risk modeling in other industries
+
+Tools & Methods
+R – statistical modeling and regression analysis
+Excel – data cleaning and exploratory analysis
+Techniques: regression modeling, interaction effects (BMI × smoking), data interpretation
+
+Future Improvements
+Incorporate longitudinal data to track cost changes over time
+Explore non-linear models for better prediction of extreme cases
+Expand analysis with additional behavioral and lifestyle variables
+
+Takeaway
+This project demonstrates how combining data analysis with behavioral insights can generate actionable recommendations for pricing, risk assessment, and strategic decision-making.
