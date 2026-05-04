@@ -1,2 +1,2 @@
 # Health_Insurance_Project
-This project aims at exploring what extent do demographic factors and behavioral choices determine the variance in individual health insurance charges In US (secondary data)
+This project aims at exploring if the Smoking Status and Obesity of an individual amplifies the cost charges of Health Insurance in US (done on secondary data set )
